@@ -1,0 +1,18 @@
+{
+    "name": "3a3965/cliclicli",
+    "authors": [
+        {
+            "name": "paul",
+            "email": "3a3965@gmail.com"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Cliclicli\\": "lib",
+        "Cliclicli\\App\\": "app"
+      }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5.7"
+    }
+}
